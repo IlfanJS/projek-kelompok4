@@ -1,0 +1,30 @@
+.slider h3,
+.slider h5{
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+    
+}
+
+.parallax-container{
+
+    height: 240px;
+
+
+}
+
+.parallax img{
+    filter: grayscale(1);
+    opacity: 0.5 !important;
+
+}
+#sertifikasi img{
+    max-width: 100px;
+    filter: drop-shadow(1px 1px 1px rgba(0,0,0,0,5));
+
+}
+#sertifikasi h3{
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+section, footer{
+    padding: 20px 0;
+}
